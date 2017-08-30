@@ -33,3 +33,19 @@
     ![4](https://user-images.githubusercontent.com/31314634/29886068-db7ba09c-8d86-11e7-9f02-39898ad7ee47.jpg)
     ![5](https://user-images.githubusercontent.com/31314634/29886065-db67d0f8-8d86-11e7-8ed1-8bc94766b965.jpg)
     ![6](https://user-images.githubusercontent.com/31314634/29886070-db833fbe-8d86-11e7-818e-3180ff5b42fc.jpg)
+
+  * Image 2 : Task 1 
+
+    ![7](https://user-images.githubusercontent.com/31314634/29886072-db83b0ca-8d86-11e7-8c7b-c8d29d42d6db.jpg)
+    
+    
+  * Image 2 : Task 2
+
+    ![8](https://user-images.githubusercontent.com/31314634/29886071-db838262-8d86-11e7-85e9-44d4f76f603e.jpg)
+    ![9](https://user-images.githubusercontent.com/31314634/29886073-db9759c2-8d86-11e7-84c2-542596c4d617.jpg)
+    
+  * Image 2 : Task 3
+  
+    ![10](https://user-images.githubusercontent.com/31314634/29886074-db98d27a-8d86-11e7-9c9d-2efb025a7cc3.jpg)
+    ![11](https://user-images.githubusercontent.com/31314634/29886075-dba0511c-8d86-11e7-85b0-e3e460e8495c.jpg)
+    ![12](https://user-images.githubusercontent.com/31314634/29886076-dba108a0-8d86-11e7-9257-83bef8d4fe09.jpg)

@@ -1,1 +1,2 @@
-# BME-595
+# BME 595 : DEEP LEARNING
+## Homework 1

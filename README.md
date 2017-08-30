@@ -13,5 +13,8 @@
   
   ![image2](https://user-images.githubusercontent.com/31314634/29886069-db826e90-8d86-11e7-87bd-0db5a04ddb21.jpg)
 
+* **Task A**
 
 * Output images
+ 
+  * Image1 : 

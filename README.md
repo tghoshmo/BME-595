@@ -51,10 +51,12 @@
     ![12](https://user-images.githubusercontent.com/31314634/29886076-dba108a0-8d86-11e7-9257-83bef8d4fe09.jpg)
     
     
+    
 * **Part B**
 
-  * Image 1
-    ![b1](https://user-images.githubusercontent.com/31314634/29888244-49c34508-8d8e-11e7-91f1-b0dcc539c60b.jpg)
+    ![b](https://user-images.githubusercontent.com/31314634/29890534-f233620c-8d95-11e7-8040-65c4698708b0.jpg)
   
-  * Image 2
-    ![b2](https://user-images.githubusercontent.com/31314634/29888245-49c41f6e-8d8e-11e7-8ecb-fbbb31ed5116.jpg)
+  
+* **Part C**
+ 
+    ![c](https://user-images.githubusercontent.com/31314634/29890535-f234a25c-8d95-11e7-9844-9a005945802d.jpg)

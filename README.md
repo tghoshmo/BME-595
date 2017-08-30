@@ -50,12 +50,11 @@
     ![11](https://user-images.githubusercontent.com/31314634/29886075-dba0511c-8d86-11e7-85b0-e3e460e8495c.jpg)
     ![12](https://user-images.githubusercontent.com/31314634/29886076-dba108a0-8d86-11e7-9257-83bef8d4fe09.jpg)
     
+    
 * **Part B**
 
   * Image 1
-  
     ![b1](https://user-images.githubusercontent.com/31314634/29888244-49c34508-8d8e-11e7-91f1-b0dcc539c60b.jpg)
   
   * Image 2
-  
     ![b2](https://user-images.githubusercontent.com/31314634/29888245-49c41f6e-8d8e-11e7-8ecb-fbbb31ed5116.jpg)

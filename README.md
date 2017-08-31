@@ -63,4 +63,4 @@
 * **Part D**
     ![d](https://user-images.githubusercontent.com/31314634/29909690-0e1c71de-8df5-11e7-9e47-5931153f5a2b.jpg)
     
-    Comparing results from part B and D, it can be inferred that C is way faster than Python.
+    * Comparing results from part B and D, it can be inferred that C is way faster than Python.

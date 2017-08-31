@@ -54,11 +54,12 @@
     
 * **Part B**
     ![b](https://user-images.githubusercontent.com/31314634/29890534-f233620c-8d95-11e7-8040-65c4698708b0.jpg)
-  
+    * Run time is proportional to number of output channels
+    * Larger the image, higher is the run time 
   
 * **Part C**
     ![c](https://user-images.githubusercontent.com/31314634/29904258-eafedb02-8dd5-11e7-81df-4d9c262c4ce1.jpg)
-    
+    * Number of operations required for convolution is proportional to kernel size and size of the image
     
 * **Part D**
     ![d](https://user-images.githubusercontent.com/31314634/29909690-0e1c71de-8df5-11e7-9e47-5931153f5a2b.jpg)

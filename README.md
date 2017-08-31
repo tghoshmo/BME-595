@@ -57,4 +57,4 @@
   
   
 * **Part C**
-    ![c](https://user-images.githubusercontent.com/31314634/29890535-f234a25c-8d95-11e7-9844-9a005945802d.jpg)
+    ![c](https://user-images.githubusercontent.com/31314634/29904258-eafedb02-8dd5-11e7-81df-4d9c262c4ce1.jpg)
